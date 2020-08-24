@@ -1,3 +1,2 @@
 # Title
-
-## Subtitle
+Boilerplate: TS-Compiler, eslint, prettier, mocha
